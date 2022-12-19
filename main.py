@@ -62,4 +62,4 @@ async def obj(ctx):
 
 
 
-client.run("MTA1MDA3ODkzOTUzMzU1Nzg5MQ.G-jB_2.5QdYbzQ9nMRnm1V2OBApnoQZagWqjk2_b23hUw")
+client.run("API KEY")
